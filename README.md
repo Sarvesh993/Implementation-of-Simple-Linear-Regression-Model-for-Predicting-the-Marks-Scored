@@ -20,7 +20,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: sarveshvaran p
 RegisterNumber: 212221230090  
 */
-
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -54,6 +54,7 @@ plt.title("Hours vs scores(Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("scores")
 plt.show()
+~~~
 
 # Output:
 ![sarvesh1](https://user-images.githubusercontent.com/94881923/164035686-e4f0c9a9-73ae-4fdb-bdb8-f3291d607adb.png)
